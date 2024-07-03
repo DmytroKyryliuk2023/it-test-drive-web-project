@@ -1,1 +1,18 @@
-.title { color: blue; }
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    scroll-behavior: smooth;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.title { 
+    color: blue; 
+}
